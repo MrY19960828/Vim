@@ -1,0 +1,8 @@
+vi:
+syntax on [off]
+set number [nonumber]
+set cindent
+
+http://www.imooc.com/video/10105
+
+vi /etc/vimrc
